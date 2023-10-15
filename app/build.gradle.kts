@@ -88,5 +88,6 @@ dependencies {
     annotationProcessor ("androidx.room:room-compiler:2.5.2")
     kapt ("androidx.room:room-compiler:2.5.2")
     implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0-alpha02")
+    androidTestImplementation ("androidx.compose.ui:ui-test-junit4:1.5.3")
 
 }
